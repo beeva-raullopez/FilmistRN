@@ -5,7 +5,7 @@ Andrioid app to search, sync and share movies and series.
 
 ## Screenshots
 
-[ ToDo ]
+
 
 ## Run android simulator
 
